@@ -12,17 +12,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-<a href="https://github.com/Naman-mahi/github-stats">
-
-![](https://github.com/Naman-mahi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Naman-mahi/github-stats/blob/master/generated/languages.svg)
 
 </a>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Any freelance work? Do reach, [email](mailto:skhobragade993@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -43,9 +38,9 @@
 ```text
 JSX          24 hrs 41 mins  ████████████████████▓░░░░   82.24 % 
 JavaScript   3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-HTML         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+HTML         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   83.32 % 
 CSS          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   50.46 % 
 ```
 <!--END_SECTION:waka-->
 
