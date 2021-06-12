@@ -1,7 +1,7 @@
 
 ###<a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a> 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! I'm [Sunil!](https://k-naman.github.io/naman) <a target="_blank">
+  </a> 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !    I'm [Sunil!](https://k-naman.github.io/naman) <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 
@@ -33,7 +33,17 @@ Hi, I'm Sunil K. Khobragade , a passionate self-taught frontEnd web developer fr
 
 
 </a>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Naman-mahi" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naman-mahi?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Naman-mahi?label=Stars" alt="Total Stars">
+</p>
+<p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%Naman-mahi" alt="Github Profile Score">
+  </code>
+</p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:skhobragade993@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
