@@ -11,8 +11,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman-mahi)](https://github.com/Naman-mahi/readme.md)
+  
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+<a href="https://github.com/Naman-mahi/github-stats">
+
+![](https://github.com/Naman-mahi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Naman-mahi/github-stats/blob/master/generated/languages.svg)
+
+</a>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
