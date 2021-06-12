@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman-mahi)](https://github.com/Naman-mahi/readme.md)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -58,6 +58,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&theme=gotham" alt="Sunilkhobragade" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman-mahi)](https://github.com/Naman-mahi/readme.md)
+
 
 
