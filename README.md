@@ -64,6 +64,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Naman-mahi&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=5&theme=tokyonight)]()
+![github graph](https://activity-graph.herokuapp.com/graph?username=Naman-mahi&theme=react-dark&hide_border=true&area=true)
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch-->
+![Github Contribution Graph](https://github.com/Naman-mahi/Naman-mahi/blob/main/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch -->
 
 
 
