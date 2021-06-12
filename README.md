@@ -85,9 +85,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
 
+## 🏆 Github Status
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naman-mahi&theme=buefy-dark&border=00400C&background=000000&stroke=188137&ring=FF1212&fire=FF0012&currStreakNum=E1FF5D&sideNums=FFFB41&currStreakLabel=98FF8C&sideLabels=7CFF96&dates=FFB0FF)](https://git.io/streak-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Naman-mahi&count_private=true&theme=tokyonight&showicons=true)]()
 
