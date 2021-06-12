@@ -94,9 +94,21 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=5&theme=tokyonight)]()
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Naman-mahi&theme=react-dark&hide_border=true&area=true)
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch-->
-![Github Contribution Graph](https://github.com/Naman-mahi/Naman-mahi/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch -->
+<div align="center">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/subhampreet-mohanty-534b9b1a9/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_the.odist_/?hl=en)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/subhampreet.mohanty/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://subhampreet-mohanty-6cdeb.web.app/)
+
+
+<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
+</div>
 
 
 
