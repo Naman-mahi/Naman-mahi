@@ -89,7 +89,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 🏆 Github Status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naman-mahi&theme=buefy-dark&border=00400C&background=000000&stroke=188137&ring=FF1212&fire=FF0012&currStreakNum=E1FF5D&sideNums=FFFB41&currStreakLabel=98FF8C&sideLabels=7CFF96&dates=FFB0FF)](https://git.io/streak-stats)
-<img  src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Naman-mahi&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=5&theme=tokyonight)]()
