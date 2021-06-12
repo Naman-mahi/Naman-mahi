@@ -107,7 +107,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://k-naman.github.io/naman/)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://dev.to/subhampreet"><img height="50" src="https://dev.to/sunilkhobragade"></a>
 
 </div>
 
