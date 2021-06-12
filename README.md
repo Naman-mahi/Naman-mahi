@@ -61,5 +61,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&theme=gotham" alt="Sunilkhobragade" />
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Naman-mahi&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=5&theme=tokyonight)]()
+
 
 
