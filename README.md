@@ -58,5 +58,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&theme=gotham" alt="Sunilkhobragade" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman-mahi)](https://github.com/Naman-mahi/readme.md)
 
 
