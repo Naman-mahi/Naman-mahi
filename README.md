@@ -42,7 +42,7 @@ Hi, I'm Sunil K. Khobragade , a passionate self-taught frontEnd web developer fr
 </a>
 <p align="center">
 
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naman-mahi?label=Followers&style=social"> •   
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naman-mahi?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/Naman-mahi?label=Stars" alt="Total Stars">
 </p>
 <p align="center">
