@@ -21,7 +21,7 @@
 
 
 ![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-Ethical Hacker-brightgreen)
+![focus](https://img.shields.io/badge/focus-Ethical_Hacker-brightgreen)
 ![living](https://img.shields.io/badge/living-Gondia-3c9)
 
 
