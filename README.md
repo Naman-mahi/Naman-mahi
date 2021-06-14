@@ -18,6 +18,13 @@
 <br />
 <br />
 
+
+
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-Ethical Hacker-brightgreen)
+![living](https://img.shields.io/badge/living-Gondia-3c9)
+
+
 Hi, I'm Sunil K. Khobragade , a passionate self-taught frontEnd web developer from India.
 
 
