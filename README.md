@@ -95,9 +95,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Naman-mahi&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=k-naman&theme=buefy-dark&border=00400C&background=000000&stroke=188137&ring=FF1212&fire=FF0012&currStreakNum=E1FF5D&sideNums=FFFB41&currStreakLabel=98FF8C&sideLabels=7CFF96&dates=FFB0FF)](https://git.io/streak-stats)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=k-naman&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=5&theme=tokyonight)]()
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Naman-mahi&theme=react-dark&hide_border=true&area=true)
