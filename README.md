@@ -204,4 +204,43 @@ Here's a bit about what drives me:
 - ✨ Passionate about mentoring juniors — helping others code more securely & think creatively.
 
 ---
+---
+
+## 📊 GitHub Stats
+
+> 📈 Here’s a quick look at my GitHub activity — I love to code, contribute, and learn new things every day!
+
+---
+
+### 🔥 GitHub Stats Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🧑‍💻 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-mahi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&langs_count=6&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Naman-mahi&theme=radical&area=true&hide_border=true" alt="GitHub Contributions" />
+</p>
+
+---
 
