@@ -312,6 +312,43 @@ Here's a bit about what drives me:
 
 ---
 
+---
+
+## 🤝 Contact Information
+
+> 💬 Feel free to reach out to me! I'm open to discussing new ideas, collaborations, and opportunities.
+
+---
+
+### 📧 Email Me
+- **Email**: [skhobragade993@gmail.com](mailto:skhobragade993@gmail.com)
+
+---
+
+### 🌐 Let's Connect
+- **LinkedIn**: [linkedin.com/in/sunilkhobragade](https://www.linkedin.com/in/sunilkhobragade/)
+- **Instagram**: [@naman_khobragade](https://www.instagram.com/naman_khobragade/)
+- **Facebook**: [Naman Khobragade](https://m.facebook.com/naman.k.khobragade.7)
+- **Twitter**: [@sunil_tech_guru](https://twitter.com/sunil_tech_guru) *(Optional, if you have one)*
+
+---
+
+### 📁 Visit My Portfolio
+- **Portfolio**: [k-naman.github.io/naman/](https://k-naman.github.io/naman/)
+
+---
+
+### 🧑‍💻 Connect on GitHub
+- **GitHub**: [github.com/Naman-mahi](https://github.com/Naman-mahi)
+
+---
+
+### 📝 Open to Freelance Work
+- Interested in discussing **freelance** opportunities? [Email me](mailto:skhobragade993@gmail.com) and let's chat!
+
+---
+
+
 ### 📊 **Data Visualization Dashboard**  
 - **Tech Stack**: React, D3.js, Node.js, PostgreSQL  
 - **Description**: Designed and developed an interactive dashboard for visualizing business data using **React** and **D3.js**. The dashboard provides insightful visualizations and real-time updates from a **PostgreSQL** database.  
