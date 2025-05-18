@@ -425,6 +425,47 @@ Here's a bit about what drives me:
 - **Postman** | **Insomnia** | **Swagger**
 
 ---
+---
+
+## 🏆 Achievements & Certifications
+
+> 🚀 Here are some of the major achievements and certifications I've earned over the years. I believe in continuous learning and staying updated with the latest trends in technology.
+
+---
+
+### **Achievements**
+
+- 🌟 **Top Contributor** at **Hacktoberfest 2023** — Contributed to open-source projects and collaborated with developers globally.
+- 🏅 **Winner of Codeforces Contest** (Rank: Top 10%) — Participated and won in various algorithm and problem-solving challenges.
+- 🏆 **Developed an Open-Source Ethical Hacking Tool** — A tool designed to enhance web security, which is widely used by ethical hackers.
+- 🎖️ **Awarded for Best Capstone Project** in Cybersecurity — Successfully built a **penetration testing** suite that is used for educational purposes in my university.
+- 🎯 **Built and Deployed AI-based Fraud Detection System** — Deployed a model that analyzes transaction data to detect fraudulent activities in real time.
+
+---
+
+### **Certifications**
+
+- 🏅 **Certified Ethical Hacker (CEH)** — EC-Council, 2024  
+- 🧠 **AI/ML Specialization** — Coursera (Stanford University), 2023  
+- 🔐 **Certified Network Defender (CND)** — EC-Council, 2023  
+- 🚀 **AWS Certified Solutions Architect – Associate** — Amazon Web Services (AWS), 2023  
+- 📊 **Data Science Professional Certificate** — IBM, 2022  
+- 📚 **Full Stack Web Development Certification** — freeCodeCamp, 2021  
+- 🔐 **Certified Penetration Testing Engineer (CPTE)** — Mile2, 2023  
+- 🔒 **Kali Linux Certified Professional** — Offensive Security, 2023  
+- 💻 **Google IT Support Professional Certificate** — Google, 2021  
+- 🌐 **Certified Kubernetes Administrator (CKA)** — Linux Foundation, 2023  
+- 🏆 **Hack The Box (HTB) Pro User** — Top 5% on the platform for completing advanced cybersecurity challenges.
+
+---
+
+### **Contributions to Open Source**
+
+- 💻 Contributed to over **20 open-source projects**, including security tools, ML libraries, and web frameworks.
+- 🌍 **Mentor for new developers** in open-source communities like **Hacktoberfest** and **First Contributions**.
+- 🎨 Created and shared **UI/UX components** for frontend development in popular repositories like **Material-UI** and **Tailwind CSS**.
+
+---
 
 
 
