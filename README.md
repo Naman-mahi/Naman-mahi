@@ -55,20 +55,57 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" height="30">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="25">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="25">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="25">
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25">
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25">
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7300?style=flat&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logoColor=white" height="25">
 </p>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-naman&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-naman&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-naman&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 📌 Weekly Development Breakdown
 
 > I am a **Software Engineer**, **Full Stack Developer**, **Cybersecurity Master’s Student**, and **Technical Lead**.  
-> My week includes coding, researching vulnerabilities, mentoring, and building secure, scalable web applications.
+> My weekly routine includes building full-stack applications, diving into security research, exploring frameworks, and helping others grow in tech.
 
 ---
