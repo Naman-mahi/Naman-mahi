@@ -151,4 +151,57 @@ Here's a bit about what drives me:
 
 ---
 
+---
+
+## 💼 Professional Highlights
+
+> From leading dev teams to building secure full-stack applications, I blend engineering, innovation, and ethical hacking into every line of code I write.
+
+---
+
+### 👨‍🎓 Education & Certifications
+
+- 🎓 Pursuing **Master's in Cybersecurity** — combining academic research with hands-on penetration testing and secure software design.
+- 🎯 Completed certifications in:
+  - ✅ **Ethical Hacking (CEH Path)** from EC-Council (in progress)
+  - ✅ **AI/ML with Python** from Coursera & Google AI
+  - ✅ Web Development Bootcamp – HTML, CSS, JavaScript, PHP, Laravel, React, Vue, Django
+
+---
+
+### 👨‍💻 Technical Roles & Experience
+
+- 👨‍🏫 **Technical Lead** — Managed a small team of developers building scalable applications with focus on clean UI, robust APIs, and secure logic.
+- 🛡️ **Cybersecurity Analyst (Freelance)** — Performed vulnerability assessments, penetration tests, and security hardening for small businesses.
+- 🔧 **Full Stack Developer** — Delivered multiple responsive and secure web apps using:
+  - **Frontend**: React, Vue, Tailwind, Bootstrap
+  - **Backend**: Node.js, Laravel, Django, Flask, CodeIgniter
+  - **Databases**: MySQL, PostgreSQL, MongoDB
+- 🤝 Collaborated on multiple open-source projects and group hackathons.
+
+---
+
+### 🧪 Projects That Define Me
+
+- 🔍 **AI-Powered Intrusion Detection System**  
+  Built a smart IDS using Scikit-learn + real-time traffic logs — classifies threats and alerts admin in milliseconds.
+
+- ⚙️ **Cyber Range Training Portal (Simulated Attacks)**  
+  Developed a web platform to simulate cyber attacks (SQLi, XSS, brute-force) and train teams on detection + mitigation.
+
+- 🧠 **ML-Powered Resume Screener**  
+  Flask app that parses resumes, scores candidates using NLP + ML, and suggests job fit — currently used by small HR firms.
+
+- 🧑‍💻 **Portfolio & Dev Blog**  
+  Deployed my own portfolio using Jekyll + GitHub Pages + custom JS — includes technical blogs, code samples, and tools.
+
+---
+
+### 🌍 Freelance & Community
+
+- 📦 Delivered full-stack freelance apps for businesses (eCommerce, blog platforms, admin dashboards).
+- 💬 Regularly contribute to tech communities and cyber groups.
+- ✨ Passionate about mentoring juniors — helping others code more securely & think creatively.
+
+---
 
