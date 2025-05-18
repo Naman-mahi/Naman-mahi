@@ -244,3 +244,27 @@ Here's a bit about what drives me:
 
 ---
 
+### 📅 Most Active Days (Commit Frequency)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Naman-mahi&bg_color=2d3436&color=f5f5f5&line=6c5ce7&point=00b894&area=true" alt="Most Active Days" />
+</p>
+
+---
+
+### 🏆 Github Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naman-mahi&theme=radical&column=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌍 Visitor Stats
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Naman-mahi/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
