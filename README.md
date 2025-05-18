@@ -1,91 +1,89 @@
-# 👋 Hi there, I'm **Sunil K. Khobragade**
-
-<div align="center">
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</div>
-
----
-
-## 🌟 About Me
-
-- 💻 Self-taught **Frontend Developer** from India  
-- 🛡️ Passionate about **Cybersecurity** & **Ethical Hacking**  
-- 🧠 Currently pursuing **Masters in Cybersecurity**  
-- 👨‍💼 Technical Lead | Full Stack Developer  
-- 🧑‍🎓 Lifelong learner and problem-solver  
-- 📍 Based in Gondia, India  
-- 🎂 Age: 24  
-
----
-
-## 🤝 Connect with Me
+<h1 align="center">Hey there! I'm Sunil K. Khobragade 👾</h1>
 
 <p align="center">
-  <a href="mailto:skhobragade993@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/sunilkhobragade/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/naman_khobragade/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://m.facebook.com/naman.k.khobragade.7">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://k-naman.github.io/naman/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
 </p>
 
 ---
 
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+## 🚀 About Me
 
-## 💼 Professional Info
-
-- 🔍 Open to **freelance** and **collaboration** opportunities  
-- ✉️ Email me: [skhobragade993@gmail.com](mailto:skhobragade993@gmail.com)  
-- 🌐 Visit my [**Portfolio**](https://k-naman.github.io/naman/) for more details  
-- 💬 Always happy to **mentor**, **collaborate**, or **brainstorm** ideas  
+- 🧠 **AI/ML Enthusiast**, **Cybersecurity Analyst**, and **Ethical Hacker**  
+- 🛡️ Master's student in **Cybersecurity** | Passionate about hacking for good  
+- 💻 **Full Stack Developer** | Turning ideas into interactive apps  
+- 🌐 Vibe Coder with a love for clean UI and secure backend  
+- 🎯 Focused on merging AI + Security to build smarter, safer systems  
+- 📍 Based in Gondia, India  
+- 🎂 Age: 24  
+- 🧙‍♂️ Believer in caffeine + code = magic  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🤝 Connect With Me
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="25">
+<p align="center">
+  <a href="mailto:skhobragade993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sunilkhobragade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/naman_khobragade/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://m.facebook.com/naman.k.khobragade.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://k-naman.github.io/naman/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="25">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="25">
+---
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25">
+## 🧠 Tech & Tools I Rock With
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25">
+### 💻 Languages & Frameworks
 
-  <!-- Cybersecurity -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF7300?style=flat&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logoColor=white" height="25">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+</p>
+
+### 🌐 Frontend & UI
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🔐 Cybersecurity & Ethical Hacking
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7300?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+</p>
+
+### 🛠️ Dev Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -93,19 +91,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-naman&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-naman&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-mahi&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-naman&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-mahi&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📌 Weekly Development Breakdown
+## 📌 Weekly Dev Vibes
 
-> I am a **Software Engineer**, **Full Stack Developer**, **Cybersecurity Master’s Student**, and **Technical Lead**.  
-> My weekly routine includes building full-stack applications, diving into security research, exploring frameworks, and helping others grow in tech.
+> Full Stack Wizard 🧙‍♂️ | AI Explorer 🤖 | Security Sleuth 🕵️‍♂️  
+> Writing clean code, breaking bad systems (ethically), and building dope apps.
 
 ---
+
