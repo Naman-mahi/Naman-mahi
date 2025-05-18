@@ -206,6 +206,8 @@ Here's a bit about what drives me:
 ---
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 > 📈 Here’s a quick look at my GitHub activity — I love to code, contribute, and learn new things every day!
@@ -239,7 +241,7 @@ Here's a bit about what drives me:
 ### 🚀 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Naman-mahi&theme=radical&area=true&hide_border=true" alt="GitHub Contributions" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Naman-mahi&bg_color=2d3436&color=f5f5f5&line=6c5ce7&point=00b894&area=true" alt="GitHub Contributions" />
 </p>
 
 ---
@@ -247,7 +249,7 @@ Here's a bit about what drives me:
 ### 📅 Most Active Days (Commit Frequency)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Naman-mahi&bg_color=2d3436&color=f5f5f5&line=6c5ce7&point=00b894&area=true" alt="Most Active Days" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naman-mahi&langs_count=5&theme=radical" alt="Most Active Days" />
 </p>
 
 ---
