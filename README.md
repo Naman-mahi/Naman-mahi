@@ -269,4 +269,53 @@ Here's a bit about what drives me:
 </p>
 
 ---
+---
+
+## 📜 Projects Showcase
+
+> 🚀 These are a few of the projects I’ve worked on, showcasing my skills in **AI**, **Machine Learning**, **Web Development**, and **Cybersecurity**. I love solving real-world problems through code and building applications that make an impact!
+
+---
+
+### 🧠 **AI-Powered Intrusion Detection System**  
+- **Tech Stack**: Python, Scikit-learn, Pandas, Flask  
+- **Description**: Developed a machine learning-based Intrusion Detection System (IDS) that uses **Scikit-learn** to analyze network traffic and classify it into normal or malicious. This system provides real-time alerts, helping network admins mitigate attacks effectively.  
+- [View Project on GitHub](https://github.com/Naman-mahi/AI-IDS)
+
+---
+
+### 🔐 **Cyber Range Training Platform**  
+- **Tech Stack**: JavaScript, Node.js, MongoDB, Express  
+- **Description**: Built a platform that simulates common cyberattacks like SQL Injection, XSS, and brute-force. The platform is used for **cybersecurity training** to help professionals practice and defend against real-world threats in a controlled environment.  
+- [View Project on GitHub](https://github.com/Naman-mahi/Cyber-Range-Training)
+
+---
+
+### 🧑‍💻 **Portfolio & Dev Blog**  
+- **Tech Stack**: HTML5, CSS3, JavaScript, Jekyll, GitHub Pages  
+- **Description**: This is my personal portfolio where I showcase projects, blogs, and tutorials. I built it using **Jekyll** and hosted it on **GitHub Pages** to ensure a fast and responsive user experience.  
+- [Visit the Portfolio](https://k-naman.github.io/naman/)
+
+---
+
+### 🤖 **Machine Learning Resume Screener**  
+- **Tech Stack**: Python, Flask, Natural Language Processing (NLP), Scikit-learn  
+- **Description**: Created an intelligent **resume screener** that evaluates resumes based on keyword matching, relevance to the job description, and overall fit. The backend is powered by **Flask** and machine learning models for classification.  
+- [View Project on GitHub](https://github.com/Naman-mahi/ML-Resume-Screener)
+
+---
+
+### 🌐 **Real-Time Chat App**  
+- **Tech Stack**: Node.js, Express, Socket.io, MongoDB  
+- **Description**: A real-time chat application built using **Socket.io** and **Node.js**. It allows users to send messages in different channels, with private messaging and real-time notifications. The app also integrates **MongoDB** for persistent message storage.  
+- [View Project on GitHub](https://github.com/Naman-mahi/Real-Time-Chat-App)
+
+---
+
+### 📊 **Data Visualization Dashboard**  
+- **Tech Stack**: React, D3.js, Node.js, PostgreSQL  
+- **Description**: Designed and developed an interactive dashboard for visualizing business data using **React** and **D3.js**. The dashboard provides insightful visualizations and real-time updates from a **PostgreSQL** database.  
+- [View Project on GitHub](https://github.com/Naman-mahi/Data-Visualization-Dashboard)
+
+---
 
