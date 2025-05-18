@@ -356,3 +356,75 @@ Here's a bit about what drives me:
 
 ---
 
+---
+
+## 🛠️ Skills & Tools
+
+> 🚀 I have hands-on experience with a wide range of tools and technologies. Below is a list of some of the technologies I'm proficient in:
+
+---
+
+### **Programming Languages**
+- **Python** | **JavaScript** | **C++** | **PHP** | **Java** | **SQL**
+
+---
+
+### **Frontend Development**
+- **HTML5**, **CSS3**, **JavaScript**  
+- **React** | **Vue.js** | **Angular**  
+- **Bootstrap** | **Tailwind CSS**  
+- **SASS/SCSS** | **jQuery**
+
+---
+
+### **Backend Development**
+- **Node.js** | **Express.js** | **Python (Flask, Django)**  
+- **PHP (Laravel, CodeIgniter)**  
+- **Ruby on Rails**
+
+---
+
+### **Database Technologies**
+- **MySQL** | **PostgreSQL** | **MongoDB** | **SQLite**  
+- **Firebase** | **Redis**
+
+---
+
+### **DevOps and Cloud**
+- **Docker** | **Kubernetes** | **AWS** | **Google Cloud**  
+- **CI/CD** | **Jenkins** | **Travis CI**
+
+---
+
+### **AI & Machine Learning**
+- **TensorFlow** | **Keras** | **Scikit-learn** | **PyTorch**  
+- **OpenCV** | **Pandas** | **NumPy**
+
+---
+
+### **Cybersecurity Tools**
+- **Metasploit** | **Burp Suite** | **Wireshark** | **Kali Linux**  
+- **Nmap** | **OWASP ZAP** | **Snort**
+
+---
+
+### **Version Control & Collaboration**
+- **Git** | **GitHub** | **GitLab**  
+- **Bitbucket** | **SourceTree**
+
+---
+
+### **Testing Frameworks**
+- **Jest** | **Mocha** | **Chai** | **Cypress**  
+- **Selenium** | **PyTest**
+
+---
+
+### **Other Tools**
+- **Jira** | **Trello** | **Asana** | **Slack**  
+- **Postman** | **Insomnia** | **Swagger**
+
+---
+
+
+
