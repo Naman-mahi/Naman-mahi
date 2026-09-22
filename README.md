@@ -226,7 +226,16 @@ Status   : Ready to collaborate on impactful code
 
 ---
 
-## 📈 GitHub Telemetry
+## 📈 GitHub Telemetry & Achievements
+
+<!-- GitHub Achievement Trophies -->
+<div align="center">
+  <a href="https://github.com/Naman-mahi">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naman-mahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <table border="0">
@@ -242,6 +251,13 @@ Status   : Ready to collaborate on impactful code
   
   <div style="margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-mahi&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
+  </div>
+
+  <!-- Dynamic Contribution Activity Graph -->
+  <div style="margin-top: 12px;">
+    <a href="https://github.com/Naman-mahi">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-mahi&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" alt="Activity Graph" width="98%" />
+    </a>
   </div>
 </div>
 
@@ -259,7 +275,10 @@ I am actively open to discussing **Machine Learning systems**, **cybersecurity o
 
 <br/>
 
-> *"The best way to predict the future is to build it — securely."*
+<!-- Dynamic Engineering Quote Card -->
+<div style="margin-top: 16px; margin-bottom: 16px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
+</div>
 
 <sub>© 2026 Sunil K. Khobragade • Built with precision & security</sub>
 
