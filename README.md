@@ -8,20 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:skhobragade993@gmail.com">
+  <a href="mailto:x.kksunil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sunilkhobragade/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://k-naman.github.io/naman/" target="_blank">
+  <a href="https://sunilkhobragade.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
   </a>
   <a href="https://github.com/Naman-mahi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/naman_khobragade/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -112,7 +109,7 @@ I am a software engineer with a hacker mindset and a passion for machine intelli
 | 🤖 **ML Resume Screener & NLP Matcher** | Python, NLP, Scikit-learn, Flask | Automated candidate parsing and semantic job-fit matching scoring algorithms. | [GitHub](https://github.com/Naman-mahi/ML-Resume-Screener) |
 | 📊 **Real-Time Data Visualization Hub** | React, D3.js, Node.js, PostgreSQL | Interactive financial and security telemetry dashboard with live streaming updates and charts. | [GitHub](https://github.com/Naman-mahi/Data-Visualization-Dashboard) |
 | 💬 **Encrypted Real-Time Chat System** | Node.js, Socket.io, Express, MongoDB | Secure multi-channel messaging platform featuring room isolation and persistent chat history. | [GitHub](https://github.com/Naman-mahi/Real-Time-Chat-App) |
-| 🌍 **Personal Portfolio & Tech Blog** | Jekyll, HTML5, CSS3, GitHub Pages | Custom responsive showcase with security research write-ups, tools, and project walkthroughs. | [Live Demo](https://k-naman.github.io/naman/) |
+| 🌍 **Personal Portfolio & Tech Blog** | Jekyll, HTML5, CSS3, GitHub Pages | Custom responsive showcase with security research write-ups, tools, and project walkthroughs. | [Live Demo](https://sunilkhobragade.pages.dev) |
 
 ---
 
@@ -129,16 +126,12 @@ I am a software engineer with a hacker mindset and a passion for machine intelli
 
 ---
 
-## 🏆 Certifications & Milestones
+## 🎯 Current Focus & Milestones
 
 - 🎓 **Master's in Cybersecurity** (In Progress)
-- 🔐 **Certified Ethical Hacker (CEH Path)** — EC-Council
-- 🧠 **AI/ML Specialization** — Stanford Online / Coursera
-- ☁️ **AWS Certified Solutions Architect – Associate** — Amazon Web Services
-- 🌐 **Certified Kubernetes Administrator (CKA)** — Linux Foundation
-- 🔒 **Kali Linux Certified Professional (KLCP)** — Offensive Security
-- 🎯 **Hack The Box (HTB)** — Top 5% rank in cybersecurity and penetration testing challenges
-- 🌟 **Hacktoberfest Top Contributor** — Active contributor to 20+ open-source tools and libraries
+- 🛡️ **Active Penetration Testing & Vulnerability Research**
+- 🧠 **Applied AI/ML Systems & Real-Time Threat Classification**
+- 💻 **Full-Stack Web Engineering** — Building secure, high-performance web applications
 
 ---
 
@@ -147,13 +140,13 @@ I am a software engineer with a hacker mindset and a passion for machine intelli
 I'm always open to discussing **security research**, **AI collaborations**, **full-stack projects**, or **freelance opportunities**.
 
 <p align="center">
-  <a href="mailto:skhobragade993@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-skhobragade993@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:x.kksunil@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-x.kksunil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sunilkhobragade/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://k-naman.github.io/naman/" target="_blank">
+  <a href="https://sunilkhobragade.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
   </a>
 </p>
