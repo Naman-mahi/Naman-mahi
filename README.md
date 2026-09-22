@@ -228,38 +228,38 @@ Status   : Ready to collaborate on impactful code
 
 ## 📈 GitHub Telemetry & Achievements
 
-<!-- GitHub Achievement Trophies -->
+<!-- 1. Profile Visitor Counter & Trophies -->
 <div align="center">
-  <a href="https://github.com/Naman-mahi">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naman-mahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Naman-mahi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Overview" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-mahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <div style="margin-top: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-mahi&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
-  </div>
-
-  <!-- Dynamic Contribution Activity Graph -->
-  <div style="margin-top: 12px;">
+  <p align="center">
     <a href="https://github.com/Naman-mahi">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-mahi&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" alt="Activity Graph" width="98%" />
+      <img src="https://komarev.com/ghpvc/?username=Naman-mahi&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
     </a>
-  </div>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Naman-mahi">
+      <img src="https://trophy.ryglcloud.net/?username=Naman-mahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </a>
+  </p>
 </div>
+
+<!-- 2. Side-by-Side: Stats Overview & Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naman-mahi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naman-mahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages" width="49%" />
+</p>
+
+<!-- 3. Contribution Streak Tracker -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-mahi&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
+</p>
+
+<!-- 4. Interactive Contribution Calendar Graph -->
+<p align="center">
+  <a href="https://github.com/Naman-mahi">
+    <img src="https://ghchart.rshah.org/38bdf8/Naman-mahi" alt="Naman-mahi's GitHub Contribution Chart" width="98%" />
+  </a>
+</p>
 
 ---
 
